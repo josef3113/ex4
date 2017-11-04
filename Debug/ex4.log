@@ -1,0 +1,6 @@
+﻿  Queue.cpp
+  Node.cpp
+  main.cpp
+  Generating Code...
+c:\users\josef\documents\visual studio 2010\projects\gg\ex4\ex4\queue.cpp(28): warning C4715: 'Queue::getNode': not all control paths return a value
+  ex4.vcxproj -> C:\Users\josef\Documents\Visual Studio 2010\Projects\gg\ex4\Debug\ex4.exe
